@@ -1,0 +1,35 @@
+body{
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.Title-main2{
+    text-align: center;
+}
+
+small{
+    font-size: 18px; 
+}
+
+span{
+    color: blue;
+}
+
+.origem-kenzie{
+    font-size: 18px;
+    background-color: blue;
+    color: white;
+    height: 115px;
+}
+
+.origem-kenzie p{
+    padding: 7px;
+}
+
+.TDR{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 18px;
+}
